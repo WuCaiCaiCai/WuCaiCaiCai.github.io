@@ -1,7 +1,7 @@
 ---
 title: HelloWorld
 date: 2025-12-24
-lastMod: 2025-12-24T21:28:SECONDZ
+lastMod: 2025-12-24
 tags: [Tec]
 category: 技术
 summary: 总结了我开站的经历。
