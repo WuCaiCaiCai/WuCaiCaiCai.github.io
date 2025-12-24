@@ -7,7 +7,11 @@
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
-  "author": "WuCaiCai",
+  "author": {
+    "name": "WuCaiCaiCai",
+    "avatar": "/avatar.jpg",
+    "bio": "既然选择了远方，便只顾风雨兼程。"
+  },
   "hero": {
     "name": "WuCai",
     "bio": "我的小小自留地。",
