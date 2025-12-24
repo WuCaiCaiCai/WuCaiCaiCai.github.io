@@ -4,8 +4,8 @@
     "title": "WuCai",
     "description": "这是我的小空间。",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
-    "appleTouchIcon": "/apple-touch-icon.png"
+    "favicon": "/favicon.png",
+    "appleTouchIcon": "/favicon.png"
   },
   "author": {
     "name": "WuCaiCaiCai",
