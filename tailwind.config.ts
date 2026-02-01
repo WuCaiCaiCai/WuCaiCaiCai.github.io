@@ -6,7 +6,6 @@ const config: Config = {
   theme: {
     fontFamily: {
       sans: [
-        '"Noto Sans SC"',
         '"Source Han Sans SC"',
         'sans-serif',
         '"Apple Color Emoji"',
@@ -14,7 +13,7 @@ const config: Config = {
         '"Segoe UI Symbol"',
         '"Noto Color Emoji"',
       ],
-      serif: ['"Noto Serif SC"', '"Source Han Serif SC"', '"Source Han Serif"', 'serif'],
+      serif: ['"Source Han Serif SC"', '"Source Han Serif"', 'serif'],
       mono: ['"JetBrains Mono"', '"Fira Code"', 'Consolas', 'monospace'],
     },
     fontSize: {
