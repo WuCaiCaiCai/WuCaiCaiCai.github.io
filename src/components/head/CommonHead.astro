@@ -22,7 +22,7 @@ const titleWithSiteSuffix = title === site.title ? title : `${title} - ${site.ti
 <title>{titleWithSiteSuffix}</title>
 <meta name="author" content={author.name} />
 <meta name="description" content={description} />
-<meta name="keywords" content={site.keywords} />
+{site.keywords && <meta name="keywords" content={site.keywords} />}
 <meta name="generator" content={Astro.generator} />
 
 <meta property="og:url" content={Astro.url} />

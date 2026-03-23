@@ -3,6 +3,7 @@
     "url": "https://WuCaiCaiCai.github.io",
     "title": "WuCai",
     "description": "这是我的小空间。",
+    "keywords": "WuCai, 博客, Astro",
     "lang": "zh-CN",
     "favicon": "/favicon.png",
     "appleTouchIcon": "/favicon.png"
@@ -10,7 +11,8 @@
   "author": {
     "name": "WuCaiCaiCai",
     "avatar": "/avatar.jpg",
-    "bio": "既然选择了远方，便只顾风雨兼程。"
+    "bio": "既然选择了远方，便只顾风雨兼程。",
+    "twitterId": ""
   },
   "hero": {
     "name": "WuCai",

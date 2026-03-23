@@ -1,5 +1,5 @@
 {
-  "name": "astro-gyoza",
+  "name": "wucai-blog",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -64,6 +64,6 @@
     "pre-commit": "pnpm exec lint-staged"
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx.astro,md,css,json}": "prettier --write"
+    "*.{js,jsx,ts,tsx,astro,md,css,json}": "prettier --write"
   }
 }
