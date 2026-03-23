@@ -84,8 +84,18 @@
   "footer": {
     "startTime": "2025-12-24T00:00:00Z"
   },
-  "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+  "giscus": {
+    "repo": "WuCaiCaiCai/WuCaiCaiCai.github.io",
+    "repoId": "R_kgDOQuSkBw",
+    "category": "Announcements",
+    "categoryId": "DIC_kwDOQuSkB84C5Enk",
+    "mapping": "pathname",
+    "strict": "0",
+    "reactionsEnabled": "1",
+    "emitMetadata": "0",
+    "inputPosition": "top",
+    "lang": "zh-CN",
+    "loading": "lazy"
   },
   "sponsor": {
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
